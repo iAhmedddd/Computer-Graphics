@@ -1,3 +1,6 @@
 # Computer-Graphics
-The focus of the projects is on learning the underlying mathematical and programming concepts using python
-- [Example: Animation using inverse kinematics](Animation using inverse kinematics/animation.mov)
+
+The focus of the projects is on learning the underlying mathematical and programming concepts using Python.
+
+- [Example: Animation using inverse kinematics](Animation%20using%20inverse%20kinematics/animation.mov)
+
